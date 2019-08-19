@@ -36,6 +36,7 @@ class Header extends React.Component{
               </div>
             </li>
             <li className="nav-item">
+              {/*Este boton tiene relacion con el modal del archivo Modal.js */}
               <button className="nav-link " href="#" tabIndex={-1}   data-toggle="modal" data-target="#exampleModalCenter"> Disabled</button>
             </li>
           </ul>

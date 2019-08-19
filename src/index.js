@@ -1,6 +1,8 @@
+/* Archivo Principal de la aplicacion React. */
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
+/* Cargo la APLICACION. */
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
